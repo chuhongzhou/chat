@@ -12,7 +12,7 @@
 - JwtToken  生成token
 - @PreAuthorize 进行访问控制
 
-![] （[博客1.png]加(https://www.chuhongzhou.top/images/1.png)
+![] （[博客1.png]加(https://github.com/chuhongzhou/chat/blob/main/image/微信截图_20210830222446.png)
 ![] （[博客2.png]加(https://www.chuhongzhou.top/images/2.png)
 ![] （[博客3.png]加(https://www.chuhongzhou.top/images/3.png)
 ![] （[博客4.png]加(https://www.chuhongzhou.top/images/4.png)
