@@ -18,8 +18,10 @@
 ![] （[博客4.png]加(https://www.chuhongzhou.top/images/4.png)
 
 
-# 博客地址
+# 新博客地址
 http://blog.chuhongzhou.top/
+# 旧博客地址
+https://www.chuhongzhou.top/
 
 
 # 有兴趣加QQ 1276443983@qq.com
