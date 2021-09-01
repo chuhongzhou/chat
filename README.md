@@ -12,10 +12,10 @@
 - JwtToken  生成token
 - @PreAuthorize 进行访问控制
 
-![] （[博客1.png]加(https://github.com/chuhongzhou/chat/blob/main/image/微信截图_20210830222446.png)
-![] （[博客2.png]加(https://www.chuhongzhou.top/images/2.png)
-![] （[博客3.png]加(https://www.chuhongzhou.top/images/3.png)
-![] （[博客4.png]加(https://www.chuhongzhou.top/images/4.png)
+![博客1.png](https://github.com/chuhongzhou/chat/blob/main/image/微信截图_20210830222446.png "博客预览1.png")
+![博客2.png](https://www.chuhongzhou.top/images/2.png)
+![博客3.png](https://www.chuhongzhou.top/images/3.png)
+![博客4.png](https://www.chuhongzhou.top/images/4.png)
 
 
 # 新博客地址
@@ -24,8 +24,8 @@ http://blog.chuhongzhou.top/
 https://www.chuhongzhou.top/
 
 
-# 有兴趣加QQ 1276443983@qq.com
-
+# 有兴趣留言 1276443983@qq.com
+- QQ ：  1276443983
 
 
 
